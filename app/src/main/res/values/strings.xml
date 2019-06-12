@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">degreesGraph</string>
+    <string name="login_btn_text">Login</string>
+    <string name="title_activity_login">degreesGraph</string>
+    <string name="title_activity_search">SearchActivity</string>
+
+</resources>
